@@ -11,13 +11,13 @@
 # Quick Web Surfing Tips
 
 <!--ts-->
-    * [Problems](#what-problem-these-tips-solve)
-    * [Chrome user](#chrome-user)
+   * [Problems](#what-problem-these-tips-solve)
+   * [Chrome user](#chrome-user)
       * [Hot-keys](#hot-keys)
       * [Kind to eyes](#to-be-kind-to-your-eyes)
       * [Restore workspace](#to-restore-your-pages)
-    * [Firefox user](#firefox-user)
-    * [Safari user](#safari-user)
+   * [Firefox user](#firefox-user)
+   * [Safari user](#safari-user)
 <!--te-->
 
 # What problem these tips solve?
