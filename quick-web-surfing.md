@@ -42,9 +42,8 @@ Install three plugins:
 Use plugin `Dark Reader` to switch between Dark or Light theme (I prefer Light theme).
 
 - Original page
-| blank |
-|---|
-|![blank](./img/blank.png)|
+
+![blank](./img/blank.png)
 
 - Light theme
 
