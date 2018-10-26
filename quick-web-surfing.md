@@ -41,6 +41,19 @@ Install three plugins:
 
 Use plugin `Dark Reader` to switch between Dark or Light theme (I prefer Light theme).
 
+- Original page
+
+![blank](./img/blank.png)
+
+- Light theme
+
+![light](./img/light.png)
+
+- Dark theme
+
+![dark](./img/dark.png)
+
+
 ## To restore your pages
 
 Plugin `Session buddy` will do it for your automatically, even when your chrome crash.
