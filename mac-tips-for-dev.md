@@ -1,7 +1,7 @@
 # Mac tips for developer
 
 <!--ts-->
-   * [What](#what-needed-by-a-developer)
+   * [What a developer need?](#what-needed-by-a-developer)
    * [Package manager](#how-to-install-packages)
    * [Editor](#editor)
    * [Terminal](#terminal-and-shell)
@@ -145,7 +145,7 @@ Plugin `Session buddy` will do it for your automatically, even when your chrome 
 |Backspace | Type `fn`-`delete` | +++ |
 |Remote connect to Windows machine| use [[CoRD]](http://cord.sourceforge.net/) | +++|
 
-- For habit
+## For habit
 
 Click via a tap:
 
