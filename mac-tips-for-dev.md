@@ -6,6 +6,9 @@
    * [Package manager](#how-to-install-packages)
    * [Editor](#editor)
    * [Terminal](#terminal-and-shell)
+     * [iterm2](#iterm2)
+     * [Oh-My-Zsh!](#oh-my-zsh)
+     * [Plugins](#plugins)
    * [Web browser](#web-browser)
    * [Apps](#apps)
      * [Terminal session manager](#terminal-session-manager)
@@ -88,7 +91,9 @@ $ brew install emacs --with-cocoa --with-gnutls --with-rsvg --with-imagemagick
 
 ## Markdown editor
 
-**typora** [demo](https://typora.io/img/beta.mp4)
+**typora** is awesome!
+
+![typorademo](./img/typora.gif)
 
 # Terminal and shell
 
@@ -100,6 +105,8 @@ Download from [website](https://iterm2.com/) and install.
 
 [iterm2 hotkeys](https://yugasun.com/post/iterm2-shortcut-key.html)
 
+![iterm2 demo](./img/iterm2.gif)
+    
 ## zsh + Oh-My-Zsh!
 
 - install zsh firstly:
@@ -113,6 +120,10 @@ $ brew install zsh
 ```shell
 $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
+
+## Plugins
+
+[Introduction to oh-my-zsh plugins](https://jyzhangchn.github.io/oh-my-zsh-diy.html)
 
 # Web browser
 
