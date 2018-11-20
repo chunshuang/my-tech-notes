@@ -2,20 +2,46 @@
 
 <!--ts-->
    * [What a developer need?](#what-needed-by-a-developer)
+   * [Shortcuts](#shortcuts)
    * [Package manager](#how-to-install-packages)
    * [Editor](#editor)
    * [Terminal](#terminal-and-shell)
    * [Web browser](#web-browser)
-   * [Shortcuts](#shortcuts)
+   * [Apps](#apps)
+     * [Terminal session manager](#terminal-session-manager)
+     * [Screen recorder](#screen-recorder)
+     * [Key capture tool](#key-capture-tool)
+     * [IDE](#ide)
+
 <!--te-->
 
 # What needed by a developer?
 
-- package manager
-- editor
-- terminal + shell
-- web browser + plugins
-- shortcuts
+- Package manager
+- Editor
+- Terminal + shell
+- Web browser + plugins
+- Good apps
+- Shortcuts
+
+# Shortcuts
+
+|Want to | Opeartion | Userful? |
+|---|---|---|
+|Search anything | Type `Command`-`SPC` to use Spotlight search | +++++ |
+|Kill hang tasks | Type `Option`-`Command`-`Esc` | ++++ |
+|Backspace | Type `fn`-`delete` | +++ |
+|Remote connect to Windows machine| use [[CoRD]](http://cord.sourceforge.net/) | +++|
+
+## For habit
+
+Click via a tap:
+
+![click](./img/click.png)
+
+Scroll natrually:
+
+![scroll](./img/scroll.png)
 
 # How to install packages?
 
@@ -136,27 +162,45 @@ Plugin `Session buddy` will do it for your automatically, even when your chrome 
 
 
 
-# Shortcuts
+# Apps
+## Terminal session manager
+
+Beside emacs, `tmux` is a good choice.
 
 |Want to | Opeartion | Userful? |
 |---|---|---|
-|Search anything | Type `Command`-`SPC` to use Spotlight search | +++++ |
-|Kill hang tasks | Type `Option`-`Command`-`Esc` | ++++ |
-|Backspace | Type `fn`-`delete` | +++ |
-|Remote connect to Windows machine| use [[CoRD]](http://cord.sourceforge.net/) | +++|
+|split window vertically | `C-b` `%` | **** |
+|split window horizonly | `C-b` `"` | **** |
+|detach tmux session | `C-b` `d` | ** |
+|switch to another windows | `C-b` `o` |****|
+|switch to numbered windows | ``C-b`` `w` |*****|
+|show time | `C-b` `t` | ** |
 
-## For habit
+![Tmux demo](./img/tmux.gif)
 
-Click via a tap:
+## Clipboard manager
 
-![click](./img/click.png)
+[1Clipboard](http://1clipboard.io/) should be qualified for both text and image.
 
-Scroll natrually:
+- Sync among different devices via Google account.
+- Simple search
 
-![scroll](./img/scroll.png)
+![1Clipboard demo](./img/1clipboard.gif)
 
+## Screen recorder
 
+[`LICEcap`](https://www.cockos.com/licecap/) is quite good.
 
-![webm](./img/k-1.webm)
+![LICEcap Demo](./img/how_to_licecap.gif)
 
-![gif](./img/test-3.gif)
+## Key capture tool
+
+[`KeyCastr`](https://github.com/keycastr/keycastr) is the choice.
+
+![keycastr demo](./img/keycastr.gif)
+
+## IDE
+
+Intellij IDEA oracle edition. 
+
+![intellij](./img/intellij.png)
