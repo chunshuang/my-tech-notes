@@ -15,6 +15,7 @@
      * [Screen recorder](#screen-recorder)
      * [Key capture tool](#key-capture-tool)
      * [IDE](#ide)
+     * [Image editor](#image-editor)
 
 <!--te-->
 
@@ -215,3 +216,9 @@ Beside emacs, `tmux` is a good choice.
 Intellij IDEA oracle edition. 
 
 ![intellij](./img/intellij.png)
+
+## Image editor
+
+[`GIMP`](https://www.gimp.org/) from MyDesktop or official website. It is Mac "Photoshop"!
+
+![gimp](./img/gimp.png)
