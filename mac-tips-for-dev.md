@@ -37,13 +37,15 @@
 |Backspace | Type `fn`-`delete` | +++ |
 |Remote connect to Windows machine| use [[CoRD]](http://cord.sourceforge.net/) | +++|
 
+Note: Microsoft Remote Desktop 10 is also available in App Store for Windows remote desktop.
+
 ## For habit
 
 Click via a tap:
 
 ![click](./img/click.png)
 
-Scroll natrually:
+Scroll naturally:
 
 ![scroll](./img/scroll.png)
 
