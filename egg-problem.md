@@ -21,14 +21,14 @@ int test(int floor) {
 int find(int min, int max) {
 	int middle = (max+min) / 2;
 
-	if (test(middle) == 0) {
+	if (test(middle) == 0) { // eggA was broken
 		int i = 0;
 		for (i = min; i <= middle; i++) {
 			if (test(i) == 0) // find it
 				break;
 		}
 		return i;
-	} else {
+	} else { // eggA survived
 		return find(middle, max); // recursive call
 	}
 }
@@ -58,4 +58,4 @@ I don't get the conclusion of source (http://yeasy.blogspot.com/2011/11/blog-pos
 
 # Misc
 
-In the source code line 32, I found an instresting thing about compiler in different platform.
+In the source code line 32, I found an instresting thing about compiler in different platforms.
